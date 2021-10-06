@@ -4,6 +4,8 @@
 
 
 # JUST LOOK AT THIS --> [Barber's vill](https://github.com/TheZiggie/barber-vill)
+
+## AND, IF YOU STILL HERE, LET'S LOOK AT THIS TOO --> [Chitcom](https://github.com/TheZiggie/chitcom)
 <!--
 **TheZiggie/TheZiggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
