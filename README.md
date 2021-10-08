@@ -28,7 +28,7 @@
 ###### ◼
 
 <details id="#languages">	
-  <summary><b>👨🏻‍💻 Languages and Tools</b></summary>
+  <summary id="#languages"><b id="#languages">👨🏻‍💻 Languages and Tools</b></summary>
   
   <br />
   
