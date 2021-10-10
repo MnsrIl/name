@@ -52,12 +52,12 @@
   <code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  
   <details>
-    <summary><b>I've used</b></summary>
-    <code><img height="40" title="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-    <code><img height="40" title="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-    <code><img height="40" title="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-    <code><img height="40" title="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-    <code><img height="40" title="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+    <summary><b>I've used/worked with</b></summary>
+    <code><img height="40" title="Mapbox GL" src="https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"></code>
+    <code><img height="40" title="react-3d-viewer" src="https://raw.githubusercontent.com/dwqdaiwenqi/react-3d-viewer/master/preview2.jpg"></code>
+    <code><img height="40" title="Handlebars js" src="https://cdn.tutsplus.com/net/uploads/legacy/2143_handlebars/handlebars-thumb.jpg"></code>
+    <code><img height="40" title="Postman" src="https://glue-labs.com/wp-content/uploads/2020/10/1.jpg"></code>
+    <code><img height="40" title="docker" src=""></code>
   </details>
   
   <details>
