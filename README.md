@@ -28,9 +28,7 @@
 ###### ◼
 ###### ◼
 
-##  👨🏻‍💻Languages and Tools
-<details>	
-  <summary><b>Look ⬇️ </b></summary>
+##  👨🏻‍💻Languages, Tools and Skills
   
   <br />
   
@@ -50,18 +48,20 @@
   <code><img height="40" title="ESLint + Prettier " src="https://blog.gojek.io/content/images/2021/03/image-50.png"></code>
   <code><img height="40" title="bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
   <code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" title="JWT token, authorization and stuff like this" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdh9NkU%2FbtqQE8H2of4%2FZkG1PPPuAYqa9HhlgRz9gK%2Fimg.png"></code>
  
   <details>
-    <summary><b>I've used/worked with</b></summary>
+    <summary><b>I've used/worked with ⬇️</b></summary>
+    <br />
     <code><img height="40" title="Mapbox GL" src="https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"></code>
     <code><img height="40" title="react-3d-viewer" src="https://raw.githubusercontent.com/dwqdaiwenqi/react-3d-viewer/master/preview2.jpg"></code>
     <code><img height="40" title="Handlebars js" src="https://cdn.tutsplus.com/net/uploads/legacy/2143_handlebars/handlebars-thumb.jpg"></code>
     <code><img height="40" title="Postman" src="https://glue-labs.com/wp-content/uploads/2020/10/1.jpg"></code>
-    <code><img height="40" title="docker" src=""></code>
   </details>
   
   <details>
-    <summary><b>I want to learn</b></summary>
+    <summary><b>I would like to learn ⬇️</b></summary>
+    <br />
     <code><img height="40" title="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="alt"></code>
