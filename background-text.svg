@@ -59,7 +59,7 @@
 					text-align: center;
 				}
 				.another_div {
-					background: red
+					background: "red";
 					width: 40px;
 					height: 40px;
 				}
