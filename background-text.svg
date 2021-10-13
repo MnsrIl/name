@@ -44,7 +44,7 @@
 						'Apple Color Emoji',
 						'Segoe UI Emoji';
 					display: flex;
-					background-image: url("https://ak.picdn.net/shutterstock/videos/1028385869/thumb/1.jpg");
+					background-image: url(https://ak.picdn.net/shutterstock/videos/1028385869/thumb/1.jpg);
 					flex-direction: column;
 					align-items: center;
 					justify-content: center;
