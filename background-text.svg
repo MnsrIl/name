@@ -33,7 +33,7 @@
 					}
 				}
 				.container {
-					background-image: url(monitor.jpg);
+					background-image: url("monitor.jpg");
 <!-- 					font-family:
 						system-ui,
 						-apple-system,
