@@ -59,7 +59,7 @@
 					text-align: center;
 				}
 				.another_div {
-					background-image: url("monitor.jpg");
+					background-image: "monitor.jpg";
 					width: 40px;
 					height: 40px;
 				}
