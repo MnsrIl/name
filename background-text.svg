@@ -33,7 +33,7 @@
 					}
 				}
 				.container {
-					background-image: url(https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg);
+					background-image: url("https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg");
 <!-- 					font-family:
 						system-ui,
 						-apple-system,
