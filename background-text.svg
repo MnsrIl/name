@@ -87,7 +87,7 @@
 				</h1>
 				<p>Hope, that I'll interest you :)</p>
 				<div class="another_div">
-					<img alt="Technology, Monitor, Alpha Coders, Binary, CRT Monitor, Retro Wave" src="require("upgraded_monitor.jpg")" />
+					<img alt="Technology, Monitor, Alpha Coders, Binary, CRT Monitor, Retro Wave" src="require("./upgraded_monitor.jpg")" />
 					I'm just another div
 				</div>
 			</div>
