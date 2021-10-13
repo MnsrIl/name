@@ -87,7 +87,7 @@
 				</h1>
 				<p>Hope, that I'll interest you :)</p>
 				<div class="another_div">
-					<image href="/upgraded_monitor.jpg" width="100%" height="100%" x="0" y="0" />
+					<image xlink-href="/upgraded_monitor.jpg" width="100%" height="100%" x="0" y="0" />
 					<img alt="Technology, Monitor, Alpha Coders, Binary, CRT Monitor, Retro Wave" src="require("./upgraded_monitor.jpg")" />
 					I'm just another div
 				</div>
