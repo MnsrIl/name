@@ -1,16 +1,25 @@
 <!-- ![Alt-текст](./background-text.svg) -->
-<a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="upgraded_monitor.jpg"></a>
-# JUST LOOK AT THIS --> [Barber's vill](https://github.com/TheZiggie/barber-vill)
-
-## AND, IF YOU STILL HERE, LET'S LOOK AT THIS TOO --> [chitcom](https://github.com/TheZiggie/chitcom)
-
-### Hi there 👋
-
-#### I'm JavaScript Fullstack Developer 💻 💬
+# Navigation
 
 > * [About Me](#my-blog)
 > * [Languages and skills](#languages-tools-and-skills)
 > * [For HR's](#block-for-hr)
+> * [My projects](#projects)
+
+<a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="upgraded_monitor.jpg"></a>
+<!-- 
+# JUST LOOK AT THIS [Barber's vill](https://github.com/TheZiggie/barber-vill)
+
+## AND, IF YOU STILL HERE, LET'S LOOK AT THIS TOO [chitcom](https://github.com/TheZiggie/chitcom)
+
+### Hi there 👋
+
+#### I'm JavaScript Fullstack Developer 💻 💬
+ -->
+
+# My projects: 
+<a href="https://github.com/TheZiggie/barber-vill"><img height="450" width="450" title="Click to view" src="https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042" alt="Barber-vill project"></a>
+<a href="https://github.com/TheZiggie/chitcom"><img height="450" width="450" title="Click to view" src="https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042" alt="Chitcom project"></a>
 
 
 ## 📈 Github Activity:
@@ -54,7 +63,7 @@
   <code><img height="40" title="ESLint + Prettier " src="https://blog.gojek.io/content/images/2021/03/image-50.png"></code>
   <code><img height="40" title="bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
   <code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="40" title="JWT token, authorization and stuff like this" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdh9NkU%2FbtqQE8H2of4%2FZkG1PPPuAYqa9HhlgRz9gK%2Fimg.png"></code>
+  <code><img height="40" title="JWT, authorization and stuff like this" src="JSON-Web-Token-Authentication-With-Node.png"></code>
  
   <details>
     <summary><b>I've used/worked with ⬇️</b></summary>
