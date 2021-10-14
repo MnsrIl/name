@@ -9,7 +9,7 @@
 #### I'm JavaScript Fullstack Developer 💻 💬
 
 > * [About Me](#my-blog)
-> * [Languages and skills](#languages)
+> * [Languages and skills](#languages-tools-and-skills)
 > * [For HR's](#block-for-hr)
 
 
