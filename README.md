@@ -1,5 +1,5 @@
 <!-- ![Alt-текст](./background-text.svg) -->
-<a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="#"></a>
+<a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="upgraded_monitor.jpg"></a>
 # JUST LOOK AT THIS --> [Barber's vill](https://github.com/TheZiggie/barber-vill)
 
 ## AND, IF YOU STILL HERE, LET'S LOOK AT THIS TOO --> [chitcom](https://github.com/TheZiggie/chitcom)
@@ -101,7 +101,7 @@ Hi, my name `is` dany and im dsasd
 
 
 
-[languages]:(#languages-and-tools)
+[languages]:(#languages,tools-and-skills)
 <!--
 **TheZiggie/TheZiggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
