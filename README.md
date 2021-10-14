@@ -68,8 +68,8 @@ Hi, my name `is` dany and im dsasd
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheZiggie&theme=github)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg
- url=https%3A%2F%2Fgithub.com%2FTheZiggie%2F&count_bg=%233287BE&title_bg=%23C35858&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheZiggie%2F&count_bg=%233287BE&title_bg=%23C35858&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true"/></a>
+
 
 
 
