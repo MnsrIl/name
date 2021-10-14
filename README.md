@@ -1,5 +1,5 @@
 <!-- ![Alt-текст](./background-text.svg) -->
-<a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="upgraded_monitor.jpg"></a>
+<a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="#"></a>
 # JUST LOOK AT THIS --> [Barber's vill](https://github.com/TheZiggie/barber-vill)
 
 ## AND, IF YOU STILL HERE, LET'S LOOK AT THIS TOO --> [chitcom](https://github.com/TheZiggie/chitcom)
