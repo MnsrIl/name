@@ -3,8 +3,8 @@
 
 > * [About Me](#about-me)
 > * [Languages and skills](#languages-tools-and-skills)
-> * [For HR's](#for-hr-s)
-> * [My projects](#projects)
+> * [For HR's](#for-hrs)
+> * [My projects](#my-projects)
 
 <a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="upgraded_monitor.jpg"></a>
 <!-- 
@@ -70,7 +70,7 @@ Hi, my name `is` dany and im dsasd
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheZiggie%2F&count_bg=%233287BE&title_bg=%23C35858&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true"/></a>
 
-
+<br />
 
 
 
