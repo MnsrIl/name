@@ -101,7 +101,7 @@ Hi, my name `is` dany and im dsasd
 
 
 
-[languages]:(#languages,tools-and-skills)
+[languages]:(#languages-tools-and-skills)
 <!--
 **TheZiggie/TheZiggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
