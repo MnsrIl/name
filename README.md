@@ -1,4 +1,5 @@
-![Alt-текст](./upgraded_monitor.jpg)
+<!-- ![Alt-текст](./background-text.svg) -->
+<a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="upgraded_monitor.jpg"></a>
 # JUST LOOK AT THIS --> [Barber's vill](https://github.com/TheZiggie/barber-vill)
 
 ## AND, IF YOU STILL HERE, LET'S LOOK AT THIS TOO --> [chitcom](https://github.com/TheZiggie/chitcom)
@@ -9,7 +10,12 @@
 
 > * [About Me](#my-blog)
 > * [Languages and skills](#languages)
+> * [For HR's](#block-for-hr)
 
+
+## 📈 Github Activity:
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheZiggie&theme=github)
 
 ## Now, let's talk about you and me: 
 #### ⚪ You are:
@@ -32,7 +38,7 @@
   
   <br />
   
-  <b>I've learned </b>
+  <b size="16px" >I've learned </b>
   
   <code><img height="40" title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="40" title="MongoDB" src="https://img.icons8.com/color/480/mongodb.png"></code>
@@ -85,7 +91,7 @@ Hi, my name `is` dany and im dsasd
 
 
 
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheZiggie%2F&count_bg=%233287BE&title_bg=%23C35858&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true"/></a>
 
 
 
