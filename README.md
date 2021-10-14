@@ -18,8 +18,8 @@
  -->
 
 # My projects: 
-<a href="https://github.com/TheZiggie/barber-vill"><img height="450" width="450" title="Click to view" src="https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042" alt="Barber-vill project"></a>
-<a href="https://github.com/TheZiggie/chitcom"><img height="450" width="450" title="Click to view" src="https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042" alt="Chitcom project"></a>
+<a href="https://github.com/TheZiggie/barber-vill"><img height="400" width="400" title="Click to view" src="https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042" alt="Barber-vill project"></a>
+<a href="https://github.com/TheZiggie/chitcom"><img height="400" width="400" title="Click to view" src="https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042" alt="Chitcom project"></a>
 
 
 ## 📈 Github Activity:
