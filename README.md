@@ -1,9 +1,9 @@
 <!-- ![Alt-текст](./background-text.svg) -->
 # Navigation
 
-> * [About Me](#my-blog)
+> * [About Me](#about-me)
 > * [Languages and skills](#languages-tools-and-skills)
-> * [For HR's](#block-for-hr)
+> * [For HR's](#for-hr-s)
 > * [My projects](#projects)
 
 <a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="upgraded_monitor.jpg"></a>
@@ -18,30 +18,61 @@
  -->
 
 # My projects: 
+
 <a href="https://github.com/TheZiggie/barber-vill"><img height="400" width="400" title="Click to view" src="https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042" alt="Barber-vill project"></a>
 <a href="https://github.com/TheZiggie/chitcom"><img height="400" width="400" title="Click to view" src="https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042" alt="Chitcom project"></a>
+
+
+
+
+
+# For HR's
+<details>
+ <summary>Open the description</summary>
+
+ <br />
+ 
+ If you're wanna hire me, there're some stuff for you: <br />
+ Let's talk about you and me: <br />
+ 
+ </br>
+ 
+ ⚪ You are:  <br />
+ ◻ Looking for perspect developer ◻ <br />
+ ◻ Have a great abilities for growing up in your company ◻ <br />
+ ◻ Have a modern development ◻ <br />
+ ◻ Нужны реально думающие люди, а не почемучки <br />
+ ◻ Have a good company with a friendly aptmosphere <br />
+ ◻ Have a busquits <br />
+ 
+ <br />
+ 
+ ⚫ Because I'm: <br />
+ ◼ The youngest, fullyenergied, ambition <br />
+ ◼ Целенаправленный, усидчивый <br />
+ ◼ Работающий, потому что мне нравится <br />
+ ◼ Уделяющий этому делу огромное кол-во времени <br />
+ ◼ Трудолюбивый, в нужных ситуациях <br />
+
+
+</details>
+
+<br /> 
+
+# About me 
+
+Hi, my name `is` dany and im dsasd
 
 
 ## 📈 Github Activity:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheZiggie&theme=github)
 
-## Now, let's talk about you and me: 
-#### ⚪ You are:
-##### ◻ Looking for perspect developer ◻
-##### ◻ Have a great abilities for growing up in your company ◻
-##### ◻ Have a modern development ◻
-##### ◻ ##### 
-##### ◻
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg
+ url=https%3A%2F%2Fgithub.com%2FTheZiggie%2F&count_bg=%233287BE&title_bg=%23C35858&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true"/></a>
 
 
 
-##### ⚫ Because I'm:
-###### ◼
-###### ◼
-###### ◼
-###### ◼
-###### ◼
 
 ##  👨🏻‍💻Languages, Tools and Skills
   
@@ -83,24 +114,9 @@
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
   </details>
-</details>
-
-## my blog
-
-### Обо мне
-Hi, my name `is` dany and im dsasd
+</details
 
 
-
-
-
-
-
-
-
-
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheZiggie%2F&count_bg=%233287BE&title_bg=%23C35858&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visits&edge_flat=true"/></a>
 
 
 
