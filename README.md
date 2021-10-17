@@ -79,7 +79,7 @@ Hi, my name `is` dany and im dsasd
   <br />
   
   <b size="16px" >I've learned </b>
-  
+  <!--   <code><img height="40" title="Next.js" src="https://res.cloudinary.com/practicaldev/image/fetch/s--8SlHs04x--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7kj8y4dfyd1aw989edi.png"></code> -->
   <code><img height="40" title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="40" title="MongoDB" src="https://img.icons8.com/color/480/mongodb.png"></code>
   <code><img height="40" title="Express.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
