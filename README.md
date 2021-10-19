@@ -26,6 +26,7 @@
 > * [Languages and skills](#languages-tools-and-skills)
 > * [For HR's](#for-hrs)
 > * [My projects](#my-projects)
+> * [My contacts](#connect-with-me)
 
 # My projects: 
 
@@ -122,12 +123,12 @@
 
 <!-- Here's my contacts --> 
 
-## 📫Contacts  
-
-<a href="https://t.me/Mnsr_Il"><img height="40" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png"></a>
-<a href="https://wa.me/79626558501"><img height="40" title="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/766px-WhatsApp.svg.png"></a>
-<img height="40" title="mansur-2004-09@mail.ru" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png">
-
+<h3 align="center">📫 Connect with me:</h3>
+<p align="center">
+    <a href="https://wa.me/79626558501" target="blank"><img align="center" title="WhatsApp" src="https://img.icons8.com/cute-clipart/64/000000/whatsapp.png" alt="WhatsApp link" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://discord.com/123" target="blank"><img align="center" title="Discord" src="https://img.icons8.com/cute-clipart/64/000000/discord.png" alt="Discord link" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/Mnsr_Il" target="blank"><img align="center" title="Telegram" src="https://img.icons8.com/cute-clipart/64/000000/telegram-app.png" alt="Telegram link" height="50" width="50" /></a>
+</p>
 
 <!-- variables -->
 
