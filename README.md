@@ -26,7 +26,7 @@
 > * [Languages and skills](#languages-tools-and-skills)
 > * [For HR's](#for-hrs)
 > * [My projects](#my-projects)
-> * [My contacts](#connect-with-me)
+> * [My contacts](#-connect-with-me)
 
 # My projects: 
 
