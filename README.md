@@ -1,31 +1,31 @@
-<!-- ![Alt-текст](./background-text.svg) -->
-# Navigation
-###### *I love bisquits* 🍪
-
-> * [Hi There!](#hi-there)
-> * [Languages and skills](#languages-tools-and-skills)
-> * [For HR's](#for-hrs)
-> * [My projects](#my-projects)
+<a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="upgraded_monitor.jpg"></a>
 
 <h2 align="center">Hi There</h2>
-<p align="center">My name is <code> Mansur </code> and Welcome to my github profile</p>
+<p align="center">My name is <code>Mansur</code> and Welcome to My github Profile</p>
 
 <img align="left" src="coding.svg" height="222px"/>
 
 ```csharp
     Human Information
     ------------------------------------------
-    Name: Damian
-    Lastname: Ziolo
-    Nickname: L0um15
+    Name: Mansur
+    Lastname: Ilmiev
+    Nickname: TheZiggie || Mnsr_Il
     Gender: Male
-    Age: 20
-    Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
-    Languages: ["Polish"], ["English US"], ["English UK"]
-    Occupation: Poland
+    Age: 17
+    Hobbies: ["Movies"], ["Coding"], ["Gaming"]
+    Languages: ["Russian"], ["English US"], ["English UK"], ["Chechen"]
+    Occupation: Russia, Chechen Republic
 ```
 
-<a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="upgraded_monitor.jpg"></a>
+<br />
+
+###### *I love bisquits* 🍪
+
+> * [Hi!](#hi-there)
+> * [Languages and skills](#languages-tools-and-skills)
+> * [For HR's](#for-hrs)
+> * [My projects](#my-projects)
 
 # My projects: 
 
