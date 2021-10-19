@@ -123,7 +123,7 @@
 
 <!-- Here's my contacts --> 
 
-<h3 align="center">📫 Connect with me:</h3>
+<h2 align="center">📫 Connect with me:</h2>
 <p align="center">
     <a href="https://wa.me/79626558501" target="blank"><img align="center" title="WhatsApp" src="https://img.icons8.com/cute-clipart/64/000000/whatsapp.png" alt="WhatsApp link" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
     <a href="https://discord.com/123" target="blank"><img align="center" title="Discord" src="https://img.icons8.com/cute-clipart/64/000000/discord.png" alt="Discord link" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
