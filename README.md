@@ -1,7 +1,7 @@
 <!-- ![Alt-текст](./background-text.svg) -->
 # Navigation
+###### *I love bisquits* 🍪
 
-> * [About Me](#about-me)
 > * [Languages and skills](#languages-tools-and-skills)
 > * [For HR's](#for-hrs)
 > * [My projects](#my-projects)
@@ -58,11 +58,6 @@
 </details>
 
 <br /> 
-
-# About me 
-
-Hi, my name `is` dany and im dsasd
-
 
 ## 📈 Github Activity:
 
