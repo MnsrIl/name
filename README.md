@@ -2,28 +2,35 @@
 # Navigation
 ###### *I love bisquits* 🍪
 
+> * [Hi There!](#hi-there)
 > * [Languages and skills](#languages-tools-and-skills)
 > * [For HR's](#for-hrs)
 > * [My projects](#my-projects)
 
+<h2 align="center">Hi There</h2>
+<p align="center">My name is <code> Mansur </code> and Welcome to my github profile</p>
+
+<img align="left" src="svg/givingback.svg" height="222px"/>
+
+```csharp
+    Human Information
+    ------------------------------------------
+    Name: Damian
+    Lastname: Ziolo
+    Nickname: L0um15
+    Gender: Male
+    Age: 20
+    Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
+    Languages: ["Polish"], ["English US"], ["English UK"]
+    Occupation: Poland
+```
+
 <a href="https://github.com/TheZiggie/barber-vill" target="_blank"><img title="Hi!" src="upgraded_monitor.jpg"></a>
-<!-- 
-# JUST LOOK AT THIS [Barber's vill](https://github.com/TheZiggie/barber-vill)
-
-## AND, IF YOU STILL HERE, LET'S LOOK AT THIS TOO [chitcom](https://github.com/TheZiggie/chitcom)
-
-### Hi there 👋
-
-#### I'm JavaScript Fullstack Developer 💻 💬
- -->
 
 # My projects: 
 
 <a href="https://github.com/TheZiggie/barber-vill"><img height="400" width="400" title="Click to view" src="https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042" alt="Barber-vill project"></a>
 <a href="https://github.com/TheZiggie/chitcom"><img height="400" width="400" title="Click to view" src="https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042" alt="Chitcom project"></a>
-
-
-
 
 
 # For HR's
@@ -104,57 +111,24 @@
     <summary><b>I would like to learn ⬇️</b></summary>
     <br />
     <code><img height="40" title="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="alt"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+    <code><img height="40" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+    <code><img height="40" title="Vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="alt"></code>
+    <code><img height="40" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+    <code><img height="40" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
   </details>
-</details
+</details>
+
+<br /> 
+
+<!-- Here's my contacts --> 
+
+## 📫Contacts  
+
+<a href="https://t.me/Mnsr_Il"><img height="40" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png"></a>
+<a href="https://wa.me/79626558501"><img height="40" title="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/766px-WhatsApp.svg.png"></a>
+<img height="40" title="mansur-2004-09@mail.ru" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png">
 
 
-
-
-
-
-
-
-
-
+<!-- variables -->
 
 [languages]:(#languages-tools-and-skills)
-<!--
-**TheZiggie/TheZiggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: 
-###
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...I'm better than u
-##### Languages, that I've learned: 
-![JS](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javaScript)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
-![Node-JS](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=Express)
-![React-Router](https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router)
-![Material-UI](https://img.shields.io/badge/MaterialUI-black?style=flat-square&logo=Material-UI)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=Bootstrap)
-![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=Webpack)
-![Babel](https://img.shields.io/badge/Babel-black?style=flat-square&logo=Babel)
-![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma)
-![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=Prettier)
-![EsLint](https://img.shields.io/badge/EsLint-black?style=flat-square&logo=EsLint)
-
-
--->
