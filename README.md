@@ -13,8 +13,8 @@
     Nickname: TheZiggie || Mnsr_Il
     Gender: Male
     Age: 17
-    Hobbies: ["Movies"], ["Coding"], ["Gaming"]
-    Languages: ["Russian"], ["English US"], ["English UK"], ["Chechen"]
+    Hobbies: ["Movies", "Coding", "Gaming"]
+    Languages: ["Russian", "English US", "English UK", "Chechen"]
     Occupation: Russia, Chechen Republic
 ```
 
