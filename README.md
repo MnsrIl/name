@@ -85,7 +85,7 @@
   <!--   <code><img height="40" title="Next.js" src="https://res.cloudinary.com/practicaldev/image/fetch/s--8SlHs04x--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7kj8y4dfyd1aw989edi.png"></code> -->
   <code><img height="40" title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="40" title="MongoDB" src="https://img.icons8.com/color/480/mongodb.png"></code>
-  <code><img height="40" title="Express.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+  <code><img height="40" title="Express.js" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"></code>
   <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="40" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -102,6 +102,9 @@
   <details>
     <summary><b>I've used/worked with ⬇️</b></summary>
     <br />
+    <code><img height="40" title="Next.js" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
+    <code><img height="40" title="NestJS" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
+    <code><img height="40" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
     <code><img height="40" title="Mapbox GL" src="https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"></code>
     <code><img height="40" title="react-3d-viewer" src="https://raw.githubusercontent.com/dwqdaiwenqi/react-3d-viewer/master/preview2.jpg"></code>
     <code><img height="40" title="Handlebars js" src="https://cdn.tutsplus.com/net/uploads/legacy/2143_handlebars/handlebars-thumb.jpg"></code>
@@ -112,7 +115,6 @@
     <summary><b>I would like to learn ⬇️</b></summary>
     <br />
     <code><img height="40" title="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-    <code><img height="40" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
     <code><img height="40" title="Vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="alt"></code>
     <code><img height="40" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
     <code><img height="40" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
