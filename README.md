@@ -98,6 +98,7 @@
   <code><img height="40" title="bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
   <code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" title="JWT, authorization and stuff like this" src="JSON-Web-Token-Authentication-With-Node.png"></code>
+  <code><a href="https://styled-components.com/"><img height="40" title="Styled Components" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png"></a></code>
  
   <details>
     <summary><b>I've used/worked with ⬇️</b></summary>
