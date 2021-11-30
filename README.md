@@ -12,7 +12,7 @@
     Lastname: Ilmiev
     Nickname: TheZiggie || Mnsr_Il
     Gender: Male
-    Age: 17
+    Age: [_]
     Hobbies: ["Movies", "Coding", "Gaming"]
     Languages: ["Russian", "English US", "English UK", "Chechen"]
     Occupation: Russia, Chechen Republic
@@ -24,7 +24,7 @@
 
 > * [Hi!](#hi-there)
 > * [Languages and skills](#languages-tools-and-skills)
-> * [For HR's](#for-hrs)
+<!-- > * [For HR's](#for-hrs) -->
 > * [My projects](#my-projects)
 > * [My contacts](#-connect-with-me)
 
@@ -34,7 +34,7 @@
 <a href="https://github.com/TheZiggie/chitcom"><img height="400" width="400" title="Click to view" src="https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042" alt="Chitcom project"></a>
 
 
-# For HR's
+<!-- # For HR's
 <details>
  <summary>Open the description</summary>
 
@@ -63,7 +63,7 @@
  ◼ Трудолюбивый, в нужных ситуациях <br />
 
 
-</details>
+</details> -->
 
 <br /> 
 
